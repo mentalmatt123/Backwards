@@ -1,2 +1,5 @@
-# sdrawkcaB
- sdrawkcaB / Backwards, is a app that reverses a string
+# Backwards
+
+What is does:
+* Reverses a word
+Thats all!
